@@ -20,6 +20,8 @@ on:
       - master
   schedule:
     - cron: 00 02 * * *
+  watch: 
+    - started
 jobs:
   run-it:
     runs-on: ubuntu-18.04
