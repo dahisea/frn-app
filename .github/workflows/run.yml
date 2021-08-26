@@ -10,9 +10,8 @@
 #
 # @Author of yml configuration file: RouRouX <https://github.com/RouRouX> & mybsdc <mybsdc@gmail.com>
 #
-######  end 说明  ######
 
-name: Run it on action
+name: Run FRN APP
 
 on:
   push:
